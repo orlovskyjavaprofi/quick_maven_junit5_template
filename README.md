@@ -11,9 +11,13 @@
 **3. Intelij**
 
 **Support us!**
+
 **liberapay:** https://liberapay.com/aorlovsky
+
 **lfx:** https://crowdfunding.lfx.linuxfoundation.org/projects/e52690f6-a013-4120-a6b6-6f872653dbec
+
 **ko-fi:** https://ko-fi.com/orlovskyconsultinggbr
+
 **buymeacoffe:** https://buymeacoffee.com/aorlovsky
 
 **Support us via crypto!**

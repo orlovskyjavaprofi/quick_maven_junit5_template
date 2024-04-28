@@ -2,7 +2,8 @@
 
 **Update: it works on latest Java 21!**
 
-Here you find basic TDD project for following IDEs:
+**Here you find basic TDD project for following IDEs:**
+
 **1. Netbeans**
 
 **2. Eclipse**
